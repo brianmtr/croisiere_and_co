@@ -4,7 +4,6 @@
 
 body{
     background-image: url(image/header.png);
-    
     background-repeat: no-repeat;
     background-size: 100%;
 }
@@ -71,6 +70,7 @@ h1{
 
 .allTrip h2{
     font-size: 30px;
+    margin-bottom: 5%;
 }
 
 .cardLeft{
